@@ -48,6 +48,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
             {
                 name: 'KNO56',
                 link: '76561198885170754'
+            }
         ];
          
         for (var i in links) {

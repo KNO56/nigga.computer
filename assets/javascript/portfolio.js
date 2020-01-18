@@ -142,7 +142,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
         img.src = "assets/others/trollface.jpg"; 
         img.width = 64;
         img.height = 64;
-        img.alt = "obnoxious.club";
+        img.alt = "nigga.computer";
         img.style = "position: absolute; left: " + event.pageX + "px; top: " + event.pageY + "px; z-index: 10";
         img.className = "troll" + ( (app.skippedIntro) ? "" : " trollface-light" );
 
@@ -201,7 +201,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #F62459'>obnoxious.club $$$</i>"], 120, 500, function () {
+                    writeLine(["<i style='color: #F62459'>nigga.computer $$$</i>"], 120, 500, function () {
 
                         timeouts.push(setTimeout(function () {
 

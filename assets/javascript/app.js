@@ -1,6 +1,6 @@
-// Made by Lummit - https://obnoxious.club/ | https://github.com/Lumm1t/ | Discord: Lummit#0201
-// Credits to expl0it, shellcode.team
-// GitHub: https://github.com/Lumm1t/obnoxious.club
+// Made by MEDMEX - https://nigga.computer/ | https://github.com/MEDMEX1/ | Discord: MEDMEX#7945
+// Credits to MEDMEX, KNO56
+// GitHub: https://github.com/MEDMEX1
 
 var _app = function () {
     this.id = 0;
@@ -23,7 +23,7 @@ var _app = function () {
 
     this.titleChanger = function (text, delay) {
         text = text ||
-            ['Lummit', 'Neso', 'loljuxd', 'Vez', 'mannin', '=', 'obnoxious.club', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)'];
+            ['Nigga.computer'];
         delay = delay || 2000;
 
         var counter = 0;

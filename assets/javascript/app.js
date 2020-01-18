@@ -1,6 +1,4 @@
-// Made by MEDMEX - https://nigga.computer/ | https://github.com/MEDMEX1/ | Discord: MEDMEX#7945
-// Credits to MEDMEX, KNO56
-// GitHub: https://github.com/MEDMEX1
+// Made by KNO56 - https://plshack.me/ | https://github.com/KNO56/ | Discord: KNO56#3120
 
 var _app = function () {
     this.id = 0;
@@ -13,17 +11,15 @@ var _app = function () {
     this.shouldIgnoreVideo = false;
     this.effects = ["bounce", "flash", "pulse", "rubberBand", "shake", "swing", "tada", "wobble", "jello"];
     this.brandDescription = [
-        "11 years old kids team", 
-        "pro roblox players", 
-        "xane ddosers", 
-        "trashtalkers", 
-        "esoterik fanboys", 
-        "hack vs hack team"
+        "Anomaly b1g memer",
+        "bro momento", 
+        "sit dog nn", 
+        "Poke𐂃𐂃𐂃"
     ];
 
     this.titleChanger = function (text, delay) {
         text = text ||
-            ['Nigga.computer'];
+            ['plshack.me'];
         delay = delay || 2000;
 
         var counter = 0;
